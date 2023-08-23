@@ -24,7 +24,7 @@ const Contact = () => {
             <BiPhoneCall /> : 9934854039
           </p>
           <p className="mt-3">
-            <BiSupport /> : 1800-0000-0000 (toll free)
+            <BiSupport /> : 1800-0000-0000
           </p>
         </div>
       </div>
