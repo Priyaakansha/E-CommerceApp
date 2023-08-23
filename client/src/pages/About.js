@@ -14,12 +14,13 @@ const About = () => {
         </div>
         <div className="col-md-4">
           <p className="text-justify mt-2">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
-            officiis obcaecati esse tempore unde ratione, eveniet mollitia,
-            perferendis eius temporibus dicta blanditiis doloremque explicabo
-            quasi sunt vero optio cum aperiam vel consectetur! Laborum enim
-            accusantium atque, excepturi sapiente amet! Tenetur ducimus aut
-            commodi illum quidem neque tempora nam.
+            Hello There! My self Akansha priya, MCA Final Year student at "Maulana Abul Kalam University of Technology, West Bengal.
+            I am currently occupied into Problem solving on various coding platforms like LEETCODE, GFG, CODECHEF, etc. Currently I am trying to upskill
+            my development Skills and implement my Knowledge to make FULL_STACK PROJECT.
+            <br/><br/>
+            This Project a server-side E-commerce website which is made by using MERN stack. The user Interface of this application is mae by using React.js
+            which a free and open-source front-end JavaScript library. I have user Node.js as cross-platform runtime environment to make the website fast
+            scalable.For backend , Express.js has been used in the backend to fetch APIs and MongoDB as a Database."
           </p>
         </div>
       </div>
